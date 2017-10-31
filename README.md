@@ -1,5 +1,11 @@
 # MS2 README
 
+Team members:
+Drew Dunne
+Graham Thomas Rutledge
+Le (Annie) Yuan
+Tongtong Lian
+
 We have included with our project a Makefile in order to make compiling and running our game very simple. The packages you will need installed are listed as below: 
 
 - oUnit
